@@ -46,6 +46,7 @@ Next, clone this project by opening a terminal and typing the following commands
     $ git clone https://github.com/ageron/handson-ml3.git
     $ cd handson-ml3
 
+
 Next, run the following commands:
 
     $ conda env create -f environment.yml
